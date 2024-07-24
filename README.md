@@ -1,6 +1,8 @@
 # Interview Portfolio : Cave Hero
 您好，這份repository的檔案皆來自我創作的遊戲 Cave Hero  
-我節選了幾個我認為寫得最好的腳本，希望能展現我的技術實力，感謝您撥冗閱讀。
+我節選了幾個我認為寫得最好的腳本，希望能展現我的技術實力，感謝您撥冗閱讀。  
+  
+itch.io遊戲試玩連結 : https://dandee555.itch.io/cave-hero-demo-version
 
 ## ObjectPoolManager.cs
   ### Feature
