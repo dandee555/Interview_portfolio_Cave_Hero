@@ -20,7 +20,7 @@ itch.io遊戲試玩連結 : https://dandee555.itch.io/cave-hero-demo-version
 ## SEManager.cs & SELibrary.cs
   ### Feature
   - **Easy Management** : Uses a library system to make resource management straightforward.
-  - **Highly Secure** : Throws an error if the given parameter does not correspond to an audioclip, informing the user immediately.
+  - **Highly Secure** : Throws an exception if the given parameter does not correspond to an audioclip, informing the user immediately.
   - **Uses Object Pool System** : Reuses resources efficiently to avoid performance wastage.
   - **Easy To Use** : Implemented with the Singleton pattern, it can be called from anywhere. Just one line of code :
     ```
